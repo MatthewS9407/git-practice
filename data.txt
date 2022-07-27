@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Name: Matthew
 Age: 28
 Favorite Color: Royal Blue
+=======
+Hello, World!
+>>>>>>> 2c77ba1e26754214eaecee1bfb18ac8fc3e4e3ae
